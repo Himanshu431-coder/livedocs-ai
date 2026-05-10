@@ -1,0 +1,22 @@
+PRODUCT ROADMAP 2026
+=====================
+
+Q1 2026 - FOUNDATION:
+- January: Release PathwayRAG v2.0
+- February: Beta testing with 50 customers
+- March: Project Phoenix public launch
+
+Q2 2026 - EXPANSION:
+- April: Mobile SDK release (iOS & Android)
+- May: European data centers launch
+- June: AI Agent framework release
+
+PRICING TIERS:
+- Starter: $49/month (up to 5 users)
+- Pro: $199/month (up to 25 users)
+- Enterprise: Custom pricing (unlimited)
+
+CONTACT:
+- Product: product@techventure.com
+- Sales: sales@techventure.com
+- Support: support@techventure.com

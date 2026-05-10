@@ -1,0 +1,25 @@
+TECHVENTURE INC. - COMPANY PROFILE
+=====================================
+Company Name: TechVenture Inc.
+Industry: Artificial Intelligence & Machine Learning
+Founded: 2020
+Headquarters: San Francisco, California, USA
+
+LEADERSHIP TEAM:
+- CEO: Dr. Sarah Chen (Ph.D. Stanford, AI Research)
+- CTO: Marcus Johnson (Former Google Brain)
+- CFO: Rebecca Williams (Ex-Goldman Sachs)
+
+COMPANY METRICS:
+- Employees: 500+ globally
+- Annual Revenue: $500 million (Series C)
+
+MISSION STATEMENT:
+Our mission is to democratize artificial intelligence and make intelligent
+systems accessible to every organization, regardless of size or technical expertise.
+
+CORE VALUES:
+1. Innovation First - Push boundaries of what's possible
+2. Customer Success - Our customers' success is our success
+3. Ethical AI - Develop responsible and transparent AI systems
+4. Continuous Learning - Never stop growing and improving

@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+websockets
+starlette
+watchfiles
+rich
+tiktoken
+tenacity
+numpy
+chromadb
+sentence-transformers
+rank-bm25
