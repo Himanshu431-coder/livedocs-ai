@@ -2,6 +2,9 @@ import asyncio
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+import os
 import json
 from app.config import get_settings
 from app.api.routes import router
@@ -47,6 +50,11 @@ def create_app() -> FastAPI:
         if response:
             return json.loads(response)
         return {"status": "ok"}
+
+    # Serve frontend static files (production only — must be LAST)
+    STATIC_DIR = os.path.join(os.path.dirname(__file__), "..", "static")
+    if os.path.isdir(STATIC_DIR):
+        app.mount("/", StaticFiles(directory=STATIC_DIR, html=True), name="static")
 
     return app
 

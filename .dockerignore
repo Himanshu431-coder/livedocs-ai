@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+.git/
+__pycache__/
+*.pyc
+.env
+frontend_old/
+assets/
+*.md
+LICENSE
